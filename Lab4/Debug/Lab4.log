@@ -1,0 +1,14 @@
+﻿  XTime.cpp
+  RasterSurface.cpp
+e:\projects\z_finished\9_graphics 1\labs\lab4\lab4\rastersurface.cpp(109): warning C4838: conversion from 'unsigned int' to 'LONG' requires a narrowing conversion
+  main.cpp
+e:\projects\z_finished\9_graphics 1\labs\lab4\lab4\mathequations.h(228): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\projects\z_finished\9_graphics 1\labs\lab4\lab4\mathequations.h(230): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\projects\z_finished\9_graphics 1\labs\lab4\lab4\mathequations.h(231): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\projects\z_finished\9_graphics 1\labs\lab4\lab4\mathequations.h(239): warning C4305: '=': truncation from 'double' to 'float'
+e:\projects\z_finished\9_graphics 1\labs\lab4\lab4\draw.h(25): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+e:\projects\z_finished\9_graphics 1\labs\lab4\lab4\draw.h(26): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+e:\projects\z_finished\9_graphics 1\labs\lab4\lab4\main.cpp(44): warning C4305: 'argument': truncation from 'double' to 'float'
+e:\projects\z_finished\9_graphics 1\labs\lab4\lab4\main.cpp(51): warning C4305: 'argument': truncation from 'double' to 'float'
+  Generating Code...
+  Lab4.vcxproj -> E:\Projects\z_Finished\9_Graphics 1\Labs\Lab4\Debug\Lab4.exe
